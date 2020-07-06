@@ -8,6 +8,9 @@ This script parses images and adds a prefix with the first available date and ti
 2. File modification date
 3. Last file modification date
 
+Example:
+> image name.JPG > 20200706-092940___image_name.jpg
+
 # Tweaks
 **Filename normalization** converts spaces to underscores and uppercase letters of a filename and an extension to lowercase.
 
